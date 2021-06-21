@@ -1,5 +1,17 @@
 ### Hi there 👋
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+
+I am a 17 y/o amateur programmer, 
+who loves to write some lines of code,
+
+I am currently learning
+- Python
+- Java
+- NODEJS
+
+# Mostly worked on modules
+- Discord.js
+- Disocrd.py
 <!--
 **typhonshambo/typhonshambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
