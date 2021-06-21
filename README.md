@@ -4,7 +4,7 @@
 I am a 17 y/o amateur programmer, 
 who loves to write some lines of code,
 
-###I am currently learning
+### I am currently learning
 - Python
 - Java
 - NODEJS
