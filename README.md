@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw0gKciwKRoxdjcPYXK8QaEp&ust=1624374679663000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOi4q7CBqfECFQAAAAAdAAAAABBO" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
 I am a 17 y/o amateur programmer, 
 who loves to write some lines of code,
