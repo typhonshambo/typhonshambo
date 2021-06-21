@@ -7,7 +7,7 @@ who loves to write some lines of code, </br>
 `Owner` of TYPHON GAMERS
 
 ### I am currently learning
-- Python  <img src='https://cdn.imgbin.com/18/7/19/imgbin-python-logo-programmer-fierce-python-s-blue-and-yellow-logo-vTCHAtgnCtFtega1YpGrJHPXQ.jpg' height='20'>
+- Python  <img src='http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png' height='20'>
 - Java
 - NODEJS
 
