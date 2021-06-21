@@ -7,7 +7,7 @@ who loves to write some lines of code, </br>
 `Owner` of TYPHON GAMERS
 
 ### I am currently learning
-- Python
+- Python  <img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>
 - Java
 - NODEJS
 
