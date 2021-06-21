@@ -1,9 +1,10 @@
-# ABOUT ME
+# <h1 align="center"> ABOUT ME </h1>
 ### HEYO COOL PEOPLE
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
 I am a 17 y/o amateur programmer, 
 who loves to write some lines of code,
+owner of TYPHON GAMERS
 
 ### I am currently learning
 - Python
