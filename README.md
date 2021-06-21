@@ -14,8 +14,6 @@ who loves to write some lines of code,
 - Disocrd.py
 
 
-<a href="https://github.com/sabesansathananthan">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=typhonshambp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
 <a href="https://github.com/typhonshambo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=typhonshambo&show_icons=true&theme=radical" />
