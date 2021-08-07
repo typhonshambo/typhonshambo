@@ -38,6 +38,9 @@ who loves to write some lines of code, </br>
 
 (https://www.paypal.me/typhonshambo)]
    
+<a href="https://www.paypal.me/typhonshambo" target="_blank">
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+</a>
 
 
 ### Socials
