@@ -32,13 +32,13 @@ who loves to write some lines of code, </br>
 
  
 ### Donation
-
-   
 [
-  ![Buy me a coffee]
+  ![Donate with PayPal]
   (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
 ]
 (https://www.paypal.me/typhonshambo)
+   
+
 
 ### Socials
    
