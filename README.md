@@ -17,10 +17,16 @@ who loves to write some lines of code, </br>
 
 
 
-<a href="https://github.com/typhonshambo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=typhonshambo&show_icons=true&theme=radical" />
-</a>
 
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=typhonshambo&show_icons=true&theme=radical"></div>
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=typhonshambo&show_icons=true&theme=radical" /> </td>
+  </tr>
+ <table>
 
 ### Spotify Playing 🎧
 
