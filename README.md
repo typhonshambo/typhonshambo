@@ -19,8 +19,6 @@ who loves to write some lines of code, </br>
 
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=typhonshambo&show_icons=true&theme=radical"></div>
-
 <table width="100%" align="center">
   <tr>
     <td>
