@@ -35,8 +35,8 @@ who loves to write some lines of code, </br>
 [
   ![Donate with PayPal]
   (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
-]
-(https://www.paypal.me/typhonshambo)
+
+(https://www.paypal.me/typhonshambo)]
    
 
 
