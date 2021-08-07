@@ -32,14 +32,10 @@ who loves to write some lines of code, </br>
 
  
 ### Donation
-[
-  ![Donate with PayPal]
-  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
 
-(https://www.paypal.me/typhonshambo)]
    
 <a href="https://www.paypal.me/typhonshambo" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
+      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"/>
 </a>
 
 
