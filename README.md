@@ -28,9 +28,7 @@ who loves to write some lines of code, </br>
   </tr>
  <table>
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/1GvOWx9cHbsuJYwNGoazw8?si=0424cc6e9a61462d)
 
 ### Donation
 [![paypal.me/typhonshambo](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/typhonshambo) - Buy me a coffee ❤️
