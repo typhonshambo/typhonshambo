@@ -30,8 +30,15 @@ who loves to write some lines of code, </br>
 
 
 
+ 
 ### Donation
-[![paypal.me/typhonshambo](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/typhonshambo) - Buy me a coffee ❤️
+
+   
+[
+  ![Buy me a coffee]
+  (https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)
+]
+(https://www.paypal.me/typhonshambo)
 
 ### Socials
    
