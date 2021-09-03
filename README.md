@@ -1,5 +1,5 @@
 # <h1 align="center"> ABOUT ME </h1>
-### HEYO COOL PEOPLE
+## HEYO COOL PEOPLE
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
 I am a 17 y/o amateur programmer, </br>
@@ -18,7 +18,7 @@ who loves to write some lines of code, </br>
 
 
 
-
+## Pofile Stats
 <table width="100%" align="center">
   <tr>
     <td>
@@ -28,10 +28,18 @@ who loves to write some lines of code, </br>
   </tr>
  <table>
 
+## Top Projects
+<p align="left">
+  <a href="https://github.com/typhonshambo/Valorant-server-stat-bot"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=Valorant-server-stat-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/typhonshambo/rtfm-bot"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=rtfm-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/typhonshambo/Clara-Music-Bot-Telegram"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=Clara-Music-Bot-Telegram&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+
+
+</p>
 
 
  
-### Donation
+## Donation
 
    
 <a href="https://www.paypal.me/typhonshambo" target="_blank">
@@ -39,7 +47,7 @@ who loves to write some lines of code, </br>
 </a>
 
 
-### Socials
+## Socials
    
 
 <p align="center">
