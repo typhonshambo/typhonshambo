@@ -18,7 +18,7 @@ who loves to write some lines of code, </br>
 
 
 
-## Pofile Stats
+## Profile Stats
 <table width="100%" align="center">
   <tr>
     <td>
