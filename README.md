@@ -34,6 +34,8 @@ who loves to write some lines of code, </br>
   
   </tr>
  <table>
+ 
+![Metrics](https://metrics.lecoq.io/typhonshambo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 ## Top Projects
 <p align="left">
