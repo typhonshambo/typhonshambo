@@ -37,7 +37,7 @@ who loves to write some lines of code, </br>
 
 
 
-![Metrics](https://metrics.lecoq.io/typhonshambo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&isocalendar=1&base.indepth=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FCalcutta)
+<img width = "1080em" src = "./github-metrics.svg">
 <p align="left">
   <a href="https://github.com/typhonshambo/Valorant-server-stat-bot"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=Valorant-server-stat-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/typhonshambo/rtfm-bot"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=rtfm-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
