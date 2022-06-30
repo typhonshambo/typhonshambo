@@ -7,9 +7,9 @@
 ## HEYO COOL PEOPLE
 <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
-I am a 17 y/o amateur programmer, </br>
+I am a 18 y/o amateur programmer, </br>
 who loves to write some lines of code, </br>
-`Owner` of TYPHON GAMERS
+
 
 ### I am currently learning
 - Python  
