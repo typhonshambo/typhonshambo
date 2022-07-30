@@ -43,6 +43,8 @@ who loves to write some lines of code, </br>
   <a href="https://github.com/typhonshambo/rtfm-bot"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=rtfm-bot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
   <a href="https://github.com/typhonshambo/Clara-Music-Bot-Telegram"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=Clara-Music-Bot-Telegram&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/typhonshambo/desi-memer"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=desi-memer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/typhonshambo/gas-leakage-detection-system"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=gas-leakage-detection-system&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/typhonshambo/TY-BOT-v3"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=TY-BOT-v3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
 
 
 
