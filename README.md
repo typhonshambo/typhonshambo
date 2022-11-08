@@ -1,14 +1,19 @@
+[![@typhonshambo's Holopin board](https://holopin.me/typhonshambo)](https://holopin.io/@typhonshambo)
+
 # <h1 align="center"> ABOUT ME </h1>
 
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com/?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python"></a>
 </p>
 
-## HEYO COOL PEOPLE
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
+<h1 align="center">Hi 👋, I'm Shambo Chowdhury</h1>
+<h3 align="center">“Bring qualities in yourself, Skill up like anything!”</h3>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-I am a 18 y/o amateur programmer, </br>
+
+🌱 I am a 18 y/o amateur programmer, </br>
 who loves to write some lines of code, </br>
+and tryout new things!
 
 
 ### I am currently learning
@@ -49,8 +54,6 @@ who loves to write some lines of code, </br>
 
 
 </p>
-   
-[![@typhonshambo's Holopin board](https://holopin.me/typhonshambo)](https://holopin.io/@typhonshambo)
 
 
  
