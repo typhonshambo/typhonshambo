@@ -71,7 +71,7 @@ and tryout new things!
 <p align="center">
   
   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/typhonshambo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png' alt='instagram' height='40'>](https://www.instagram.com/typhon.shambo/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png' alt='twitter' height='40'>](https://twitter.com/typhon_shambo)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' height='40'>](https://discord.gg/m5mSyTV7RR)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/discord.svg' alt='discord' height='40'>](https://discord.gg/m5mSyTV7RR)
    
 </p>
 
