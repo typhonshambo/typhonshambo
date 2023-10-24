@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
 
 
-🌱 I am a 18 y/o amateur programmer, </br>
+🌱 I am a 19 y/o amateur programmer, </br>
 who loves to write some lines of code, </br>
 and tryout new things!
 
@@ -51,6 +51,9 @@ and tryout new things!
   <a href="https://github.com/typhonshambo/gas-leakage-detection-system"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=gas-leakage-detection-system&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
   <a href="https://github.com/typhonshambo/TY-BOT-v3"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=TY-BOT-v3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
 
+  <a href="https://github.com/typhonshambo/flipkart-review-scrapper"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=flipkart-review-scrapper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+
+  <a href="https://github.com/typhonshambo/coding-problem-database"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=typhonshambo&repo=coding-problem-database&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
 
 
 </p>
@@ -60,9 +63,8 @@ and tryout new things!
 ## Donation
 
    
-<a href="https://www.paypal.me/typhonshambo" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"/>
-</a>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C6LBB9T)
 
 
 ## Socials
@@ -71,7 +73,7 @@ and tryout new things!
 <p align="center">
   
   [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/typhonshambo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png' alt='instagram' height='40'>](https://www.instagram.com/typhon.shambo/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png' alt='twitter' height='40'>](https://twitter.com/typhon_shambo)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/discord.svg' alt='discord' height='40'>](https://discord.gg/m5mSyTV7RR)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://www.svgrepo.com/show/353655/discord-icon.svg' alt='discord' height='40'>](https://discord.gg/m5mSyTV7RR)
    
 </p>
 
