@@ -17,9 +17,8 @@ and tryout new things!
 
 
 ### I am currently learning
-- Python  
-- Java
-- NODEJS
+- Python (data science)
+- C
 
 ### Mostly worked on modules
 - Discord.js
