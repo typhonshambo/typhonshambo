@@ -18,11 +18,14 @@ and tryout new things!
 
 ### I am currently learning
 - Python (data science)
-- C
+- swift
 
-### Mostly worked on modules
-- Discord.js
-- Disocrd.py
+### Mostly worked on modules/frameworks
+- ML/DataScience toolkits like numpy, pandas, matplotlib, scikit learn etc
+- Discord.py
+- Pyrogram
+- Database toolkits like Asyncpg, MongoDB
+  
 
 
 
