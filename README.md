@@ -20,7 +20,7 @@ and tryout new things!
 - Python (data science)
 - swift
 
-### Mostly worked on modules/frameworks
+### Popular Frameworks/Modules I've Used
 - ML/DataScience toolkits like numpy, pandas, matplotlib, scikit learn etc
 - Discord.py
 - Pyrogram
