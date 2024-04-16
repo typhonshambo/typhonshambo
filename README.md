@@ -25,6 +25,7 @@ and tryout new things!
 - Discord.py
 - Pyrogram
 - Database toolkits like Asyncpg, MongoDB
+- Scrapping tools like BeautifulSoup
   
 
 
