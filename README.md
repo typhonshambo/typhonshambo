@@ -17,8 +17,8 @@ and tryout new things!
 
 
 ### I am currently learning
-- Python (data science)
-- Swift
+- MLOps
+- Data-Science
 
 ### Popular Frameworks/Modules I've Used
 - ML/DataScience toolkits like numpy, pandas, matplotlib, scikit learn etc
