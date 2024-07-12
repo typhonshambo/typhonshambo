@@ -37,7 +37,7 @@ and tryout new things!
 <table width="100%" align="center">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=typhonshambo&show_icons=true&theme=radical" /> </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=typhonshambo&show_icons=true&theme=dark" /> </td>
 <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typhonshambo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
   
   </tr>
